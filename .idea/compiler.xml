@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="WinAppDriverJava" />
+        <module name="windowsDesktopAppAutomation-winappdriver-java" />
       </profile>
     </annotationProcessing>
   </component>
